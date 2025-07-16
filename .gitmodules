@@ -1,0 +1,3 @@
+[submodule "test-submodule-nested"]
+	path = test-submodule-nested
+	url = https://github.com/Violectra/test-submodule-nested.git
