@@ -1,0 +1,16 @@
+Subject: [PATCH] alternative branch commit
+---
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 8f1c0b103f8b783e7e18b371142732bbd149b79b)
++++ b/README.md	(revision d7a4912d249bd85bde10b7ee843f37d574989718)
+@@ -1,4 +1,4 @@
+ # test-submodules
+-
++alternative
+ descr
+ .....
